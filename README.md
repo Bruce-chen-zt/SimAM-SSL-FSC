@@ -1,2 +1,2 @@
-# SimAM-SSL-FSC
-Code for "SimAM Attention and Self-supervised Learning for  Few-Shot Classification". The code will be published soon.
+# TASSL
+Code for "Three dimension attention and self-supervised learning for few-shot learning". The code will be published soon.
